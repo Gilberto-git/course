@@ -3,8 +3,7 @@ package application;
 public class program {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World");
-		System.out.println("commit 2");
+		System.out.println("Bom dia");
 	}
 
 }
